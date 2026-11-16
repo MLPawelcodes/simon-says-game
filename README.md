@@ -29,4 +29,6 @@ powershell -ExecutionPolicy Bypass -File .\install_shortcut.ps1
 
 W trybie klasycznym kolejny poziom zachowuje poprzednią sekwencję i dodaje
 jeden kafelek. W trybie losowym cała sekwencja jest układana od nowa, ale
-również zwiększa się o jeden element.
+również zwiększa się o jeden element.Dla mnie jest to faina gra ponieważ łątwo
+złapać wprawę w zapamiętywaniu coraz bardziej skomplikowanych sekwencji kafelków.
+
